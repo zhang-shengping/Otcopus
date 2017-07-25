@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = octopus
+
+[report]
+ignore_errors = True
